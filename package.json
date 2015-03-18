@@ -36,7 +36,8 @@
     "supertest": "^0.15.0"
   },
   "dependencies": {
+    "google-distance": "^0.2.1",
     "mongojs": "^0.18.2",
-    "google-distance": "^0.2.1"
+    "xmlify": "^1.0.0"
   }
 }
