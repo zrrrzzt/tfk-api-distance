@@ -30,14 +30,14 @@
     "url": "http://github.com/zrrrzzt/tfk-api-distance/issues"
   },
   "devDependencies": {
-    "hapi": "^8.2.0",
-    "jscs": "^1.11.3",
-    "mocha": "^2.2.0",
-    "supertest": "^0.15.0"
+    "hapi": "^15.2.0",
+    "jscs": "^3.0.7",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
   },
   "dependencies": {
-    "google-distance": "^0.2.1",
-    "mongojs": "^0.18.2",
+    "google-distance": "^1.0.1",
+    "mongojs": "^2.4.0",
     "xmlify": "^1.0.0"
   }
 }
