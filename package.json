@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "google-distance": "^1.0.1",
-    "mongojs": "^2.4.0",
+    "mongojs": "^2.5.0",
     "xmlify": "^1.0.0"
   }
 }
